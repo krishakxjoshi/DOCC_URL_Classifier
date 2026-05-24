@@ -128,9 +128,7 @@ url = "https://example.com"
 # Installation
 
 ```bash
-git clone <your-repo-link>
-cd DOCC-URL-Classification-System
-pip install -r requirements.txt
+google drvie ; https://drive.google.com/drive/u/0/folders/14kKemno_6RzHpDYySqr_Nt5thJI8OHH9
 ```
 
 ---
@@ -140,3 +138,5 @@ pip install -r requirements.txt
 Krishak Josh
 
 Machine Learning & Cybersecurity Enthusiast
+
+Download Model
